@@ -1,4 +1,4 @@
-# Twitter Engagement Analysis on Apple Vision Pro 🍎
+# Twitter Engagement Analysis on Apple Vision Pro 
 
 ![Apple Vision Pro](/VP.png)
 
